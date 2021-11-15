@@ -1,0 +1,8 @@
+py mget request = asking for information,webpage
+    information flows from database to webpage
+post request = posting information to the database
+    information flows from webpage to database
+
+models.py = code to create attributes
+view.py = code to interact with webpage and database
+url.py = address location of the webpage
